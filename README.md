@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Aman katiyar</h1>
 <h3 align="center">A passionate full stack Java developer from India</h3>
 
